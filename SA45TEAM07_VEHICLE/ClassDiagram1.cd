@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SA45TEAM07_VEHICLE.BaseForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Bus" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAg=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Car" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAQAQAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.EnquireVehicleStatusControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAAAAAEAAgCAAAAAgAIAARAAAAEA=</HashCode>
+      <FileName>EnquireVehicleStatusControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.FormCategorySearch" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAABCAAACAAABKAAgIAAQIAEIAAAAAAQA=</HashCode>
+      <FileName>FormCategorySearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.FormMain" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAaAAACAAAAAAAACAAAACCAACAAAAAgQAQAAgAEA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.FormRentDetails" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQAAAACAAABGCAACAAABCIAAIAAAAESAAAAAAAAE=</HashCode>
+      <FileName>FormRentDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.FormSearch" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAADAAAgCAAAAQAAgAKAAAAAAAAo=</HashCode>
+      <FileName>FormSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.FormVehicleDetails" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAYAAAACAAABAAAADAAAACAAAARAAAAKAAAAAAAAA=</HashCode>
+      <FileName>FormVehicleDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.MainControl" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAABAAAAAgEAAAABABACAAAAAgAA=</HashCode>
+      <FileName>MainControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Program" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.RentVehicleControl" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAUAAAAAAAAAAAAAAAAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>RentVehicleControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Truck" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Vehicle" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAEAAAAAAAAAAACAAAAAAIAAACCAAgAgAAIAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.VehicleCategory" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.VehicleDAO" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEkEAADAACAgACAIABAggQAAAIBAQEAAREgAAAA=</HashCode>
+      <FileName>VehicleDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.VehicleException" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.VehicleMessage" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAACAAAAAAAAAAAIAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>VehicleMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.VehicleUtility" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VehicleUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Properties.Resources" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SA45TEAM07_VEHICLE.Properties.Settings" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
